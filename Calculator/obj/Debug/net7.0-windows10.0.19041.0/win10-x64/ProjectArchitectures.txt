@@ -1,0 +1,1 @@
+C:\Users\buffa\Downloads\maui-samples-main\maui-samples-main\7.0\Apps\Calculator\src\Calculator\Calculator.csproj;x64
