@@ -12,21 +12,21 @@ build_property.EnableSingleFileAnalyzer = true
 build_property.EnableTrimAnalyzer = false
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = Calculator
-build_property.ProjectDir = C:\Users\buffa\Downloads\maui-samples-main\maui-samples-main\7.0\Apps\Calculator\src\Calculator\
+build_property.ProjectDir = c:\Users\buffa\Documents\School\Spring 2023\Applied Programming\.netUI\Calculator\
 
-[C:/Users/buffa/Downloads/maui-samples-main/maui-samples-main/7.0/Apps/Calculator/src/Calculator/App.xaml]
+[c:/Users/buffa/Documents/School/Spring 2023/Applied Programming/.netUI/Calculator/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/buffa/Downloads/maui-samples-main/maui-samples-main/7.0/Apps/Calculator/src/Calculator/MainPage.xaml]
+[c:/Users/buffa/Documents/School/Spring 2023/Applied Programming/.netUI/Calculator/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/buffa/Downloads/maui-samples-main/maui-samples-main/7.0/Apps/Calculator/src/Calculator/Resources/Styles.xaml]
+[c:/Users/buffa/Documents/School/Spring 2023/Applied Programming/.netUI/Calculator/Resources/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Calculator.Resources.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
